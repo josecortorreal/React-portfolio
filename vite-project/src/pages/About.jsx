@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/skills.css";
+import "../styles/Skills.css";
 import { FaReact, FaBootstrap, FaGitSquare } from "react-icons/fa";
 import { DiJava, DiJavascript1, DiCss3, DiHtml5, DiPython, DiMongodb, DiNodejs } from "react-icons/di";
 import { SiSequelize, SiExpress, SiPrisma } from "react-icons/si";
