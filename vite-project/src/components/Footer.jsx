@@ -5,7 +5,7 @@ import Resume from "../assets/JCResume.pdf"
 
 
 
-const Footer = () => {
+const footer = () => {
   return (
     <footer id="footer">
         <div className = "container">
@@ -22,4 +22,4 @@ const Footer = () => {
   )
 }
 
-export default Footer;
+export default footer;
